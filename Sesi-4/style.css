@@ -1,0 +1,206 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+.Rumah{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.Ruangan_Keluarga{
+    width: 50%;
+    height: 50vh;
+    display: block;
+    text-align: center;
+    justify-content: left baseline;
+    justify-items: center;
+}
+.h1{
+    font-size: 40px;
+    color: black;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+.Lampu_Ruangan_Keluarga1{
+    width: 100px;
+    height: 180px;
+    align-items: left;
+    justify-content: left;
+    justify-items: left;
+    display: inline-block;
+    background-color: blue ;
+
+}
+.Keluarga1{
+    font-size: 20px;
+    color: white;
+}
+.Lampu_Ruangan_Keluarga2{
+    width: 100px;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: inline-block;
+    background-color: aquamarine;
+}
+.Keluarga2{
+    font-size: 20px;
+    color: white;
+}
+.Lampu_Ruangan_Keluarga3{
+    width: 100px;
+    height: 180px;
+    align-items: right;
+    justify-content: right;
+    justify-items: right;
+    background-color: greenyellow;
+    display: inline-block;
+}
+.Keluarga3{
+    font-size: 20px;
+    color: white;
+}
+.Ruangan_Makan{
+    width: 40%;
+    height: 100vh;
+    display: block ;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+.h2{
+    font-size: 40px;
+    color: black;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+.Lampu_Ruangan_Makan{
+    width: 100px;
+    height: 180px;
+    align-items: left;
+    justify-content: left;
+    justify-items: left;
+    display: inline-block;
+    background-color: red ;
+
+}
+.Makan1{
+    font-size: 20px;
+    color: white;
+}
+.Ruangan_Tidur{
+    width: 40%;
+    height: 100vh;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+.h3{
+    font-size: 40px;
+    color: black;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+.Lampu_Ruangan_Tidur1{
+    width: 100px;
+    height: 180px;
+    align-items: left;
+    justify-content: left;
+    justify-items: left;
+    display: inline-block;
+    background-color: fuchsia ;
+
+}
+.Tidur1{
+    font-size: 20px;
+    color: white;
+}
+.Lampu_Ruangan_Tidur2{
+    width: 100px;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: inline-block;
+    background-color: gray;
+}
+.Makan2{
+    font-size: 20px;
+    color: white;
+}
+.Ruangan_Tamu{
+    width: 60%;
+    height: 100vh;
+    display: block;
+    text-align: center;
+    justify-content: right;
+    justify-items: right;
+}
+.h4{
+    font-size: 40px;
+    color: black;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+.Lampu_Ruangan_Tamu1{
+    width: 100px;
+    height: 180px;
+    align-items: left;
+    justify-content: left;
+    justify-items: left;
+    display: inline-block;
+    background-color: navy ;
+
+}
+.Tamu1{
+    font-size: 20px;
+    color: white;
+}
+.Lampu_Ruangan_Tamu2{
+    width: 100px;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: inline-block;
+    background-color: aqua;
+}
+.Tamu2{
+    font-size: 20px;
+    color: white;
+}
+.Lampu_Ruangan_Tamu3{
+    width: 100px;
+    height: 180px;
+    align-items: right;
+    justify-content: right;
+    justify-items: right;
+    background-color: green;
+    display: inline-block;
+}
+.Tamu3{
+    font-size: 20px;
+    color: white;
+}
+.Lampu_Ruangan_Tamu4{
+    width: 100px;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: inline-block;
+    background-color: blueviolet;
+}
+.Tamu4{
+    font-size: 20px;
+    color: white;
+}
